@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/1185818338_725127808_223132457.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/624642324_255102487_1819885502.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/624642324_3633966565_2122316917.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/624642324_411030308_4131132508.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/624642324_255102487_1899665192.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/624642324_3474571682_4070073468.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/624642324_409180065_758497372.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/624642324_255102487_1196125768.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/s/480p15/partial_movie_files/Visual/624642324_3914873174_3848394518.mp4'

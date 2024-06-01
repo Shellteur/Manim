@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/displayText/1185818338_2268332985_631829896.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/displayText/1185818338_2176044732_4131132508.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/displayText/624642324_3890345977_2453241202.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/displayText/624642324_3427150300_3895671056.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/displayText/624642324_1141282389_1900772530.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/1080p60/partial_movie_files/GearTrain/3529212410_1412492994_2358810818.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/1080p60/partial_movie_files/GearTrain/3040924799_2660066900_2885140513.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/1080p60/partial_movie_files/GearTrain/3040924799_437919761_484612882.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/1080p60/partial_movie_files/GearTrain/3040924799_2027465985_3691979401.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/1080p60/partial_movie_files/GearTrain/3040924799_511732984_2286188953.mp4'

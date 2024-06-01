@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/poeti/ManimCE/media/videos/Updater4/1080p60/partial_movie_files/Spiral/3956651994_1129393984_223132457.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/Updater4/1080p60/partial_movie_files/Spiral/4058290618_1017316004_428248544.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/Updater4/1080p60/partial_movie_files/Spiral/4058290618_1615776545_2192696269.mp4'

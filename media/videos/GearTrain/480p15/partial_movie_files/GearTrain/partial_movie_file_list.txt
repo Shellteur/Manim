@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/1185818338_1412492994_2358810818.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_2660066900_2885140513.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_437919761_484612882.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_2027465985_1571811972.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_868607233_1688962832.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_2973872735_4163819872.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_816461005_2538838181.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_2027465985_3508679163.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_868607233_1604762587.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_2115575727_3548392277.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/GearTrain/480p15/partial_movie_files/GearTrain/624642324_1549608130_558541859.mp4'

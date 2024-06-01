@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/1185818338_2002196228_223132457.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_1704852926_1642718618.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_1438868447_595242722.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_1704852926_1606224580.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_1199236811_394111008.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_1704852926_1299614799.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_440272393_1230557353.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_1704852926_3513883128.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_1426622108_4103733277.mp4'
+file 'file:C:/Users/poeti/ManimCE/media/videos/funsie/480p15/partial_movie_files/OpeningManim/624642324_1704852926_3505165879.mp4'
